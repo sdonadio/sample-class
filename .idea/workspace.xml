@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a96d6b65-e290-4afc-98a8-125c752d6de8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/random-walk-getting-started.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random-walk-naive.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773488897575</updated>
       <workItem from="1773488898601" duration="10416000" />
-      <workItem from="1773502065323" duration="180000" />
+      <workItem from="1773502065323" duration="372000" />
     </task>
     <servers />
   </component>
